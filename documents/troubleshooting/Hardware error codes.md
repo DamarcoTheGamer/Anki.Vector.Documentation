@@ -1,5 +1,7 @@
 # Hardware error codes
+702
 
+* The robot shut down due to the battery being too low.
 If something has gone wrong, an error will appear on Vector's face. These error happen if Vector's hardware is bad, but some of them could also be software.
 
 801
@@ -84,3 +86,4 @@ If something has gone wrong, an error will appear on Vector's face. These error 
 990
 
 * Vic-anim is unable to open the display for writing. This is something you will probably never see.
+
